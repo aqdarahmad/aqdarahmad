@@ -47,8 +47,7 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: **aqdar.dev@gmail.com**
-- 💼
+- 📧 Email: **a.abusufyan@student.aaup.edu**
 - 🧑‍💻 [GitHub Profile](https://github.com/aqdarahmad)
 
 ---
