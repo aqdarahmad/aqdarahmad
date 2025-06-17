@@ -3,7 +3,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Who is Aqdar ?
 - 🎓 Final-year Computer Engineering student at **Arab American University (AAUP)**
 - 📱 Passionate about building mobile apps using **Flutter**
 - 🌐 Skilled in creating responsive web applications with **React**
@@ -20,7 +20,7 @@
 | 🌐 Web Development   | HTML, CSS, JavaScript, React                   |
 | 💡 Programming       | Java, Python, C++, Object-Oriented Programming, Data Structures |
 | 🧪 QA (Learning)     | Manual Testing, Test Case Writing, Bug Reporting |
-| 🗄️ Databases         | Firebase, Firestore, SQL                       |
+| 🗄️ Databases         |  SQL                       |
 | ⚙️ Tools & Workflow  | Git, GitHub, VS Code, Trello, Agile Methodologies |
 
 ---
