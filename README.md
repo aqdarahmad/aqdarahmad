@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqdarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="aqdarahmad" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqdarahmad" alt="aqdarahmad" /></a> </p>
+
 - 🌱 I’m currently learning **📘 Fundamentals of Software Testing, 🧪 Writing effective Test Cases and Bug Reports. 🤖 Exploring tools like Postman, Jira, and Selenium for automated and manual testing.**
 
 - 💬 Ask me about **Flutter development (UI, state management) Git, GitHub, Trello and project collaboration tools, Firebase integration) Java & Python programming basics to advanced**
