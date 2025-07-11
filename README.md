@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter development (UI, state management) Git, GitHub, Trello and project collaboration tools Java & Python programming basics to advanced**
 
-- 📄 Know about my experiences [Mobile App Developer . Tech Stack. Team Collaborator](Mobile App Developer . Team Collaborator)
+- 📄 Know about my experiences [Mobile App Developer . Team Collaborator](Mobile App Developer . Team Collaborator)
 
 
 <h3 align="left">Languages and Tools:</h3>
