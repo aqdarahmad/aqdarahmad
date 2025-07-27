@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aqdar Ahmad</h1>
 <h3 align="center">💻 Aspiring Software Engineer | Mobile & Web Developer | QA Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqdarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="aqdarahmad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqdarahmad" alt="aqdarahmad" /></a> </p>
 
 - 🌱 I’m currently learning **📘 Fundamentals of Software Testing, 🧪 Writing effective Test Cases and Bug Reports. 🤖 Exploring tools like Postman, Jira, and Selenium for automated and manual testing.**
 
