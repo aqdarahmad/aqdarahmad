@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aqdar Ahmad</h1>
-<h3 align="center">💻 Aspiring Software Engineer | Mobile & Web Developer | QA Enthusiast</h3>
 
 
 
-- 🌱 I’m currently learning **📘 Fundamentals of Software Testing, 🧪 Writing effective Test Cases and Bug Reports. 🤖 Exploring tools like Postman, Jira, and Selenium for automated and manual testing.**
-
-- 💬 Ask me about **Flutter development (UI, state management) Git, GitHub, Trello and project collaboration tools Java & Python programming basics to advanced**
-
-- 📄 Know about my experiences [Mobile App Developer . Team Collaborator](Mobile App Developer . Team Collaborator)
 
 
 <h3 align="left">Languages and Tools:</h3>
