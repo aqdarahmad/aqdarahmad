@@ -1,4 +1,4 @@
-<p> I see myself as a part of everything, and each experience blossoms into who I am as a woman and as a dreamer.</p>
+<p> I see myself as a part of everything</p>
 
 
 
