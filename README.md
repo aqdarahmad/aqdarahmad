@@ -12,9 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqdarahmad&show_icons=true&locale=en" alt="aqdarahmad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqdarahmad&" alt="aqdarahmad" /></p>
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aqdarahmad&theme=tokyonight&fire=FF4500&ring=FFD700)](https://git.io/streak-stats)
+
 
 
