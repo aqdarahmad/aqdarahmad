@@ -15,5 +15,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqdarahmad&" alt="aqdarahmad" /></p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aqdar&theme=tokyonight&fire=FF4500&ring=FFD700&currStreakLabel=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aqdarahmad&theme=tokyonight&fire=FF4500&ring=FFD700)](https://git.io/streak-stats)
+
 
