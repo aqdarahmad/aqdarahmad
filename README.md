@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqdarahmad&show_icons=true&locale=en" alt="aqdarahmad" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aqdarahmad&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aqdarahmad&hide_longest_streak=true)](https://git.io/streak-stats)
