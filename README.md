@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aqdar Ahmad</h1>
 
-- 🌱 I’m currently learning  **React , MongoDB , PS Patterns , UVM , FPGA , ASIC , PLDs**  
+
+
+
+
+- 🌱 I’m currently learning  **React , MongoDB , PS Patterns , UVM , FPGA , ASIC , PLDs**
+
+  
 
 - 💬 Ask me about **Assemply , VHDL , System Verilog , Verilog , Testing , Find Bugs , Circuit Design , Multisim , Embedded Systems**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 ,ا
