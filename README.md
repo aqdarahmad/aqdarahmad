@@ -14,13 +14,7 @@
 
 
 ,ا
-<h3> Projects </h3>
 
-**4-Bit ALU** – Designed & simulated arithmetic logic operations.  
-**16-Bit Calculator (Assembly)** – Designed & simulated 16-bit calculator logic operations using Assembly language.  
-**Traffic Light Controller (VHDL)** – FSM-based control with proper timing.  
-**Clock Generator & Two’s Complement (VHDL)** – Sequential & combinational logic design.  
-**Lost & Found App (Flutter)** – Mobile app with clean UI/UX & state management.
 
 
 
