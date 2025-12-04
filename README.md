@@ -4,11 +4,20 @@
 
 
 
-- 🌱 I’m currently learning  **React , MongoDB , PS Patterns , UVM , FPGA , ASIC , PLDs**
+💻 Computer Engineering Student – 4th Year
+I am a fourth-year Computer Engineering student with hands-on experience in both frontend and backend development as well as Flutter mobile apps.
+
+🔧 Hardware Projects:
+
+Worked on ALU and BMU design projects.
+
+Currently designing a CPU .
+
+💡 I am skilled in React,  Flutter, UVM, FPGA, ASIC, PLDs, and experienced in Assembly, VHDL, SystemVerilog, Verilog, Testing, Bug Finding, Circuit Design, and Embedded Systems
 
   
 
-- 💬 Ask me about **Assemply , VHDL , System Verilog , Verilog , Testing , Find Bugs , Circuit Design , Multisim , Embedded Systems**
+- 💬 Ask me about **Assemply , VHDL , System Verilog , Verilog , UVM , FPGA , ASIC , PLDs,Testing , Find Bugs , Circuit Design , Multisim , Embedded Systems**
 
 
 
