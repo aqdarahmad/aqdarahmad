@@ -5,7 +5,7 @@
 
 
 💻 Computer Engineering Student – 4th Year
-I am a fourth-year Computer Engineering student with hands-on experience in both frontend and backend development as well as Flutter mobile apps.
+I am a fourth-year Computer Engineering student with a strong passion for hardware design, digital systems. I enjoy working on real-world projects related to CPUs, ALUs, BMUs, and verification environments, and I am always motivated to learn new technologies and improve my technical skills 
 
 🔧 Hardware Projects:
 
