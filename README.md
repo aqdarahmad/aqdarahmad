@@ -9,9 +9,9 @@ I am a fourth-year Computer Engineering student with a strong passion for hardwa
 
 🔧 Hardware Projects:
 
-Worked on ALU and BMU design projects.
+currently Working on Updated ALU and BMU design projects.
 
-Currently designing a CPU .
+My goal is design a new  CPU .
 
 💡 I am skilled in React,  Flutter, UVM, FPGA, ASIC, PLDs, and experienced in Assembly, VHDL, SystemVerilog, Verilog, Testing, Bug Finding, Circuit Design, and Embedded Systems
 
