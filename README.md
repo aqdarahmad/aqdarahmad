@@ -5,10 +5,7 @@
 
 
 💻 Computer Engineering Student – 4th Year
-I am a fourth-year Computer Engineering student with a strong passion for hardware design, digital systems. 
-I enjoy working on real-world projects related to CPUs, ALUs, BMUs, and verification environments.
-
-
+I am a fourth-year Computer Engineering student with a strong passion for hardware design and computer architecture.
 currently Working on Updated version of ALU and BMU design projects.
 
 My goal is designing a new  CPU .
