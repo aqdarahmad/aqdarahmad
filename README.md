@@ -4,11 +4,12 @@
 
 
 
-💻 Computer Engineering Student – 4th Year
-I am a fourth-year Computer Engineering student with a strong passion for hardware design and computer architecture.
-currently Working on Updated version of ALU and BMU design projects.
+💻 Computer Engineering Student – 5th Year
+ Computer Engineering student with a strong passion for hardware design and computer architecture.
+ 
+ currently Working on Updated version of ALU and BMU design projects.
 
-My goal is designing a new  CPU .
+ My goal is designing a new  CPU .
 
 💡 I love UVM, FPGA, ASIC, PLDs,Testing, Bug Finding, Circuit Design, and Embedded systems 
 
@@ -16,10 +17,6 @@ My goal is designing a new  CPU .
 
 
 Ask me about microprocessor 8086 and microprocessor 8088
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
