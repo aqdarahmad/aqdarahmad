@@ -4,7 +4,7 @@
 
 
 
-💻 Computer Engineering Student – 5th Year
+
  Computer Engineering student with a strong passion for hardware design and computer architecture.
  
  currently Working on Updated version of ALU and BMU design projects.
