@@ -7,7 +7,7 @@
 💡 I love UVM, FPGA, ASIC, PLDs,Testing, Bug Finding, Circuit Design, and Embedded systems 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqdarahmad" alt="aqdarahmad" /></a> </p>
+
 
 
 
