@@ -4,7 +4,6 @@
 <br></br>
  Currently Working on Updated version of ALU .
   <br></br>
-  <br></br>
  I love UVM, FPGA, Bug Finding,and Embedded systems. 
 
 
