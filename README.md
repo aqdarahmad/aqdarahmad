@@ -1,10 +1,11 @@
 <h1 align="center">Hi,I'm Aqdar Ahmad</h1>
-<br>
+<br></br>
 <h3 align="center">Computer Engineering student with a strong passion for hardware design and computer architecture.</h3>
-<br>
- Currently Working on Updated version of ALU and BMU design projects.
- <br>
-💡 I love UVM, FPGA, Bug Finding,and Embedded systems. 
+<br></br>
+ Currently Working on Updated version of ALU .
+ My Goal is design me CPU
+ <br></br>
+ I love UVM, FPGA, Bug Finding,and Embedded systems. 
 
 
 
