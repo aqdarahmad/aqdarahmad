@@ -2,7 +2,8 @@
 <br></br>
 <h3 align="center">Computer Engineering student with a strong passion for hardware design and computer architecture.</h3>
  Currently Working on Updated version of ALU .
-  I love UVM, FPGA, Bug Finding,and Embedded systems. 
+   <br></br>
+ I love UVM, FPGA, Bug Finding,and Embedded systems. 
   <br></br>
 
 
