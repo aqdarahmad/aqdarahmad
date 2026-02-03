@@ -1,7 +1,6 @@
 <h1 align="center">Hi,I'm Aqdar </h1>
 <br></br>
 <h3 align="center">Computer Engineering student with a strong passion for hardware design and computer architecture.</h3>
-<br></br>
  Currently Working on Updated version of ALU .
   <br></br>
  I love UVM, FPGA, Bug Finding,and Embedded systems. 
