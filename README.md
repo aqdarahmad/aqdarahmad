@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering student with a strong passion for hardware design and computer architecture.</h3>
 
    <br></br>
- I love coding , problem solving , thinking creativitely . 
+ I love coding ,problem solving ,build my own solutions . 
   <br></br>
 
 
