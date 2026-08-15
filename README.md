@@ -1,15 +1,109 @@
-<h1 align="center">Hi,I'm Aqdar Ahmad </h1>
-<br></br>
-<h3 align="center">Computer Engineering student with a strong passion for hardware design and computer architecture.</h3>
+<h1 align="center">Hi 👋, I'm Aqdar Ahmad</h1>
 
-   <br></br>
- I love coding ,problem solving ,build my own solutions .
-   <br></br>
- I enjoy breaking my codes via testing .
+<h3 align="center">
+Computer Systems Engineering | Design Verification | Computer Architecture | Problem Solving
+</h3>
+
+<p align="center">
+  <a href="https://github.com/aqdarahmad">
+    <img src="https://komarev.com/ghpvc/?username=aqdarahmad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Systems Engineering graduate
+- 🔧 Interested in **Design Verification, Digital Design, and Computer Architecture**
+- 🧪 Experienced with **SystemVerilog, UVM, Verilog, and RTL Design**
+- 💻 Strong interest in **C++ and Problem Solving**
+- 🧠 I enjoy building my own solutions and understanding how things work internally
+- 🐛 I love breaking my code through testing to find and fix bugs
+- 🚀 Currently improving my skills in **ASIC Verification and VLSI**
+
+---
+
+### 🛠️ Languages & Tools
+
+#### Hardware & Verification
+
+<p align="left">
+  <a href="https://www.accellera.org/downloads/standards/systemverilog">
+    <img src="https://img.shields.io/badge/SystemVerilog-ED1C24?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog"/>
+  </a>
+  <a href="https://www.accellera.org/activities/standards/uvm">
+    <img src="https://img.shields.io/badge/UVM-007ACC?style=for-the-badge" alt="UVM"/>
+  </a>
+
+  <a href="https://www.accellera.org/">
+    <img src="https://img.shields.io/badge/RTL%20Design-333333?style=for-the-badge" alt="RTL Design"/>
+  </a>
+</p>
+
+#### Programming
+
+<p align="left">
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  </a>
  
-  <br></br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> > </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+</p>
+
+#### Software & Development
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+ 
+</p>
+
+#### Web & Application Development
+
+<p align="left">
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </a>
+</p>
+
+---
+
+### 🔬 Areas of Interest
+
+
+Digital Design
+      ↓
+RTL Design
+      ↓
+SystemVerilog
+      ↓
+UVM Verification
+      ↓
+Functional Verification
+      ↓
+ASIC / VLSI
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqdarahmad&show_icons=true&locale=en&layout=compact" alt="aqdarahmad" /></p>
 
