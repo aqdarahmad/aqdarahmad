@@ -90,20 +90,7 @@ Computer Systems Engineering | Design Verification | Computer Architecture | Pro
 
 ---
 
-### 🔬 Areas of Interest
 
-
-Digital Design
-      ↓
-RTL Design
-      ↓
-SystemVerilog
-      ↓
-UVM Verification
-      ↓
-Functional Verification
-      ↓
-ASIC / VLSI
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqdarahmad&show_icons=true&locale=en&layout=compact" alt="aqdarahmad" /></p>
 
