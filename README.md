@@ -4,11 +4,7 @@
 Computer Systems Engineering | Design Verification | Computer Architecture | Problem Solving
 </h3>
 
-<p align="center">
-  <a href="https://github.com/aqdarahmad">
-    <img src="https://komarev.com/ghpvc/?username=aqdarahmad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+
 
 ---
 
