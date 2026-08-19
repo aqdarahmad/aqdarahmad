@@ -4,8 +4,6 @@
 Computer Systems Engineering | Design Verification | Computer Architecture | Problem Solving
 </h3>
 
-
-
 ---
 
 ### 👨‍💻 About Me
