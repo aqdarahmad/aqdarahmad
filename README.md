@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aqdar Ahmad</h1>
+<h1 align="center">Hi , I'm Aqdar Ahmad</h1>
 
 <h3 align="center">
 Computer Systems Engineering | Design Verification | Computer Architecture | Problem Solving
