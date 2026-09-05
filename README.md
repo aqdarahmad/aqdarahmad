@@ -61,9 +61,7 @@ Computer Systems Engineering | Design Verification | Computer Architecture | Pro
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
- 
 </p>
-
 #### Web & Application Development
 
 <p align="left">
