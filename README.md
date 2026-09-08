@@ -50,6 +50,14 @@ Beyond hardware, I actively follow how modern AI systems are engineered and depl
 
 ---
 
+## 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="80%"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
