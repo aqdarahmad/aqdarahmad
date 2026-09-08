@@ -1,89 +1,74 @@
-<h1 align="center">Hi , I'm Aqdar Ahmad</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Systems Engineering | Design Verification | Computer Architecture | Problem Solving
-</h3>
+# Hi 👋, I'm Aqdar Ahmad
+
+### Computer Systems Engineer | <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&vCenter=true&width=200&height=25&lines=Design+Verification" alt="Design Verification" valign="middle"/> | Computer Architecture
+
+*Turning silicon-level ideas into verified, working systems*
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/aqdar-ahmad-b30832421"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+</div>
+
 ---
-### 👨‍💻 About Me
 
-- 🎓 Computer Systems Engineering graduate
-- 🔧 Interested in **Design Verification, Digital Design, and Computer Architecture**
-- 🧪 Experienced with **SystemVerilog, UVM, Verilog, and RTL Design**
-- 💻 Strong interest in **C++ and Problem Solving**
-- 🧠 I enjoy building my own solutions and understanding how things work internally
-- 🐛 I love breaking my code through testing to find and fix bugs
-- 🚀 Currently improving my skills in **ASIC Verification and VLSI**
+## 👨‍💻 About Me
+
+- 🎓 **Computer Systems Engineering** graduate
+- 🔬 Passionate about **Design Verification, Digital Design, and Computer Architecture**
+- 🧪 Hands-on experience with **SystemVerilog, UVM, Verilog, and RTL Design**
+- 💻 Strong foundation in **C++** and algorithmic problem solving
+- 🧠 I like taking things apart — literally and figuratively — to understand how they *actually* work
+- 🐛 I test my own code aggressively to hunt down edge cases and bugs before they hunt me
+- 🚀 Currently deepening my skills in **ASIC Verification** and **VLSI Design**
+- 🌱 Building projects that bridge hardware verification concepts with practical software problem-solving
+- 🤖 Exploring **AI/LLM systems** — inference optimization, agentic architectures, and how models are deployed and scaled in production
 
 ---
 
-### 🛠️ Languages & Tools
+## 🤖 AI & LLM Interests
 
-#### Hardware & Verification
+Beyond hardware, I actively follow how modern AI systems are engineered and deployed:
 
+`Inference Optimization` · `KV Caching` · `Model Routing` · `Context Engineering` · `Harness Engineering` · `Autonomous Agents` · `Multi-Agent Systems` · `RAG (Retrieval-Augmented Generation)` · `MCP (Model Context Protocol)` · `Guardrails & AI Safety` · `Prompt Engineering`
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming, Tools & Web
 <p align="left">
-  <a href="https://www.accellera.org/downloads/standards/systemverilog">
-    <img src="https://img.shields.io/badge/SystemVerilog-ED1C24?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog"/>
-  </a>
-  <a href="https://www.accellera.org/activities/standards/uvm">
-    <img src="https://img.shields.io/badge/UVM-007ACC?style=for-the-badge" alt="UVM"/>
-  </a>
-
-  <a href="https://www.accellera.org/">
-    <img src="https://img.shields.io/badge/RTL%20Design-333333?style=for-the-badge" alt="RTL Design"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,git,github,linux,react,flutter,js,postman&theme=light" alt="skills"/>
 </p>
 
-#### Programming
+### Hardware & Verification
+*(SystemVerilog · UVM · Verilog · RTL Design)*
 
-<p align="left">
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.cprogramming.com/">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  </a>
- 
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqdarahmad&show_icons=true&locale=en&theme=default&hide_border=true" alt="aqdarahmad stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqdarahmad&show_icons=true&locale=en&layout=compact&hide_border=true" alt="aqdarahmad top langs" width="45%"/>
 </p>
 
-#### Software & Development
-
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-</p>
-#### Web & Application Development
-
-<p align="left">
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqdarahmad&hide_border=true" alt="aqdarahmad streak" width="70%"/>
 </p>
 
 ---
 
+<div align="center">
 
+### 📫 Let's Connect
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqdarahmad&show_icons=true&locale=en&layout=compact" alt="aqdarahmad" /></p>
+If you're working on verification, architecture, or just love a good technical problem — my inbox is always open.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqdarahmad&show_icons=true&locale=en" alt="aqdarahmad" /></p>
+<img src="https://komarev.com/ghpvc/?username=aqdarahmad&style=flat-square&color=blue" alt="Profile views"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqdarahmad&" alt="aqdarahmad" /></p>
+</div>
