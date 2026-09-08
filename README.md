@@ -17,12 +17,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Systems Engineering** graduate
 - 🔬 Passionate about **Design Verification, Digital Design, and Computer Architecture**
 - 🧪 Hands-on experience with **SystemVerilog, UVM, Verilog, and RTL Design**
 - 💻 Strong foundation in **C++** and algorithmic problem solving
-- 🧠 I like taking things apart — literally and figuratively — to understand how they *actually* work
-- 🐛 I test my own code aggressively to hunt down edge cases and bugs before they hunt me
 - 🚀 Currently deepening my skills in **ASIC Verification** and **VLSI Design**
 - 🌱 Building projects that bridge hardware verification concepts with practical software problem-solving
 - 🤖 Exploring **AI/LLM systems** — inference optimization, agentic architectures, and how models are deployed and scaled in production
@@ -50,8 +47,6 @@ Beyond hardware, I actively follow how modern AI systems are engineered and depl
 
 ---
 
-## 🐍
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="80%"/>
 </p>
@@ -77,6 +72,6 @@ Beyond hardware, I actively follow how modern AI systems are engineered and depl
 
 If you're working on verification, architecture, or just love a good technical problem — my inbox is always open.
 
-<img src="https://komarev.com/ghpvc/?username=aqdarahmad&style=flat-square&color=blue" alt="Profile views"/>
+
 
 </div>
