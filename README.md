@@ -5,7 +5,6 @@
 ### Computer Systems Engineer | <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&vCenter=true&width=200&height=25&lines=Design+Verification" alt="Design Verification" valign="middle"/> | Computer Architecture
 
 
-
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/aqdar-ahmad-b30832421"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
