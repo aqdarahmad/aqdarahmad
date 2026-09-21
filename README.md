@@ -7,7 +7,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/aqdar-ahmad-b30832421"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
 </div>
 ---
 
