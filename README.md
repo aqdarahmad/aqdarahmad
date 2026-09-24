@@ -9,7 +9,6 @@
 </p>
 </div>
 ---
-
 ## 👨‍💻 About Me
 
 - 🔬 Passionate about **Design Verification, Digital Design, and Computer Architecture**
