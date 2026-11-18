@@ -1,7 +1,6 @@
 <div align="center">
 # Hi 👋, I'm Aqdar Ahmad
 
-
 ### Computer Systems Engineer | Design Verification Engineer
 
 <p>
