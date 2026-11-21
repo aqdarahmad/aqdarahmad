@@ -1,7 +1,6 @@
 <div align="center">
 # Hi 👋, I'm Aqdar Ahmad
 ### Computer Systems Engineer | Design Verification Engineer
-
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" />
   <a href="https://www.linkedin.com/in/aqdar-ahmad-b30832421">
